@@ -104,16 +104,6 @@ mindset: Build • Learn • Improve • Repeat
 
 ---
 
-# 🏆 TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tuibene&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # 🚀 FEATURED PROJECTS
 
 <div align="center">
@@ -143,7 +133,7 @@ mindset: Build • Learn • Improve • Repeat
 
 <div align="center">
 
-<img src="https://github.com/tuibene/tuibene/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/tuibene/tuibene/output/github-contribution-grid-snake.svg" />
 
 </div>
 
