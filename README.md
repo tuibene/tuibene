@@ -1,21 +1,14 @@
-````md id="readmefinal03"
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=TUIBENE&fontSize=70&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20•%20AI%20Builder%20•%20Creative%20Thinker&descAlignY=60&descSize=18"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Universe;Building+Modern+Web+Applications;Creating+AI+Powered+Projects;Always+Learning+New+Technologies;Code+with+Passion+🔥" />
-
-<br>
-
+  <img src="https://img.shields.io/badge/Hello%2C%20tuibene-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+  <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Universe;Building+Modern+Web+Applications;Creating+AI+Powered+Projects;Always+Learning+New+Technologies;Code+with+Passion+%F0%9F%94%A5" />
+  <br>
+<h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
 <img src="https://komarev.com/ghpvc/?username=tuibene&style=for-the-badge&color=blueviolet" />
 <img src="https://img.shields.io/github/followers/tuibene?style=for-the-badge&logo=github&color=111111" />
-
 </div>
 
 ---
-
 # 🧑‍💻 ABOUT ME
 
 ```yaml
@@ -26,13 +19,11 @@ focus:
   - Backend Development
   - AI Engineering
   - UI/UX Design
-
 currently_learning:
   - Cloud Computing
   - DevOps
   - Scalable Systems
   - Machine Learning
-
 mindset: Build • Learn • Improve • Repeat
 ````
 
@@ -164,4 +155,3 @@ mindset: Build • Learn • Improve • Repeat
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </div>
-``` 
