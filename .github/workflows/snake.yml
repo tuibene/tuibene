@@ -1,4 +1,4 @@
-```yml
+
 name: Generate Snake Animation
 
 on:
@@ -21,8 +21,6 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
@@ -38,4 +36,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-```
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
