@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20tuibene%20👋&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Thai Bao%20👋&fontSize=70&animation=fadeIn" width="100%" />
 </p>
 
 ## 🧑‍💻 Về tôi
