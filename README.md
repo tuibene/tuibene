@@ -1,71 +1,193 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Thai Bao%20👋&fontSize=70&animation=fadeIn" width="100%" />
-</p>
-
-## 🧑‍💻 Về tôi
-Tôi là một **Full-stack Developer** đam mê xây dựng các sản phẩm công nghệ có tác động tích cực đến cộng đồng. Với tư duy giải quyết vấn đề và sự tỉ mỉ trong từng dòng code, tôi luôn tìm kiếm những thử thách mới để bứt phá giới hạn của bản thân.
-
-- 🔭 **Dự án hiện tại:** Đang xây dựng [Tên dự án của bạn] - Một giải pháp cho [Vấn đề gì đó].
-- 🚀 **Mục tiêu:** Trở thành một Senior Engineer và đóng góp nhiều hơn cho cộng đồng Open Source.
-- 📚 **Đang nghiên cứu:** Microservices, Cloud Native và AI Integration.
-- 💬 **Thế mạnh:** Tư duy logic tốt, khả năng tự học nhanh và làm việc nhóm hiệu quả.
-
----
-
-## 🛠 Kỹ năng chuyên môn
-
+````md
 <div align="center">
 
-  ### 🌐 Frontend
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=TUIBENE&fontSize=70&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20•%20AI%20Builder%20•%20Creative%20Thinker&descAlignY=60&descSize=18"/>
 
-  ### ⚙️ Backend & Database
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dot.js&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
 
-  ### ☁️ DevOps & Tools
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Universe;Building+Modern+Web+Applications;Creating+AI+Powered+Projects;Always+Learning+New+Technologies;Code+with+Passion+🔥" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=tuibene&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/tuibene?style=for-the-badge&color=black&logo=github" />
+<img src="https://img.shields.io/github/stars/tuibene?style=for-the-badge&color=yellow" />
 
 </div>
 
 ---
 
-## 📊 Chỉ số hoạt động GitHub
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tuibene&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tuibene&theme=dracula&hide_border=true" />
-</p>
+# 🧑‍💻 ABOUT ME
 
-<p align="center">
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuibene&layout=compact&theme=dracula&hide_border=true" />
-</p>
+```yaml
+name: Tuibene
+role: Fullstack Developer
+specialty:
+  - Frontend Development
+  - Backend Development
+  - AI Integration
+  - UI/UX Creativity
+
+currently_learning:
+  - Cloud Computing
+  - DevOps
+  - Machine Learning
+  - Scalable Architecture
+
+mindset: Build • Improve • Repeat
+mission: Create useful digital products for the future
+````
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/tuibene">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🏆 Thành tích & Chứng chỉ
-- 🥇 Giải nhất cuộc thi Hackathon [Năm]
-- 🎓 Chứng chỉ AWS Certified Solutions Architect
-- 🌟 Đóng góp cho [Tên Repo lớn] với hơn 1000+ stars
+# ⚒️ TECH STACK
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,c,cs,php,go,kotlin" />
+
+### 🚀 Frameworks
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,django,dotnet,bootstrap,tailwind,flutter" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase,postgresql" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux" />
+
+</div>
 
 ---
 
-## 📫 Kết nối với tôi
-Để trao đổi về công việc hoặc ý tưởng dự án, bạn có thể tìm thấy tôi qua:
+# 📊 GITHUB STATS
 
-<p align="left">
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-252422?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuibene&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuibene&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
+
+# 🔥 STREAK STATS
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tuibene&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tuibene&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tuibene&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+| Project                 | Description               | Tech               |
+| ----------------------- | ------------------------- | ------------------ |
+| 🤖 AI English Platform  | IELTS / Aptis AI Learning | React + Node.js    |
+| 🍱 Smart Fridge Manager | IoT Food Management       | Flutter + Firebase |
+| 🏍️ Rental Website      | Motorbike Booking System  | ASP.NET + SQL      |
+| 🌐 Portfolio            | Personal Branding Site    | Next.js            |
+
+</div>
+
+---
+
+# 🎵 NOW PLAYING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Currently+Building+Dreams...;Coding+Late+Night...;Listening+to+LoFi+Beats...;Turning+Coffee+Into+Code..." />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tuibene/tuibene/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 💬 DEV QUOTE
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💡 LIFE PHILOSOPHY
+
+<div align="center">
+
+### "Success is built line by line, commit by commit."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
+</div>
+``` 
